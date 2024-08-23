@@ -1,0 +1,23 @@
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Historial"
+    url: /year-archive/
+  - title: "Archivo"
+    url: /categories/
+  - title: "Presentacion"
+    url: /about/
+
+asignaturas:
+  - title: Asignaturas - 1º ASIR
+    children:
+    - title: Implantación de Sistemas Operativos
+      url: /categories/#sistemas
+    - title: Planificación y Administración de Redes
+      url: /categories/#redes
+#  - title: Asignaturas - 2º ASIR
+#    children:
+#    - title: Implantación de Sistemas Operativos
+#      url: /tags/#sistemas
+#    - title: Planificación y Administración de Redes
+#      url: /tags/#redes
