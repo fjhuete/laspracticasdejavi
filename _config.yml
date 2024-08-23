@@ -21,14 +21,14 @@
 title: Las prácticas de Javi
 description: >- # this means to ignore newlines until "baseurl:"
   Repositorio de prácticas del Ciclo Formativo de Administración de Sistemas Informáticos en Red (ASIR): Sistemas, Redes, Bases de Datos, Debian, Virtualización, OpenStack y más.
-baseurl: "laspracticasdejavi" # the subpath of your site, e.g. /blog
-url: "https://fjhuete.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: fj_huete
 github_username:  fjhuete
 linkedin_username: fjhuete
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
