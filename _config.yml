@@ -28,7 +28,7 @@ github_username:  fjhuete
 linkedin_username: fjhuete
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
