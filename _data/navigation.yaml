@@ -17,6 +17,8 @@ asignaturas:
       url: /categories/#redes
     - title: Fundamentos de Hardware
       url: /categories/#fundamentos-hardware
+    - title: Bases de datos
+      url: /categories/#bases-de-datos
 #  - title: Asignaturas - 2º ASIR
 #    children:
 #    - title: Implantación de Sistemas Operativos
