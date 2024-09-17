@@ -19,7 +19,7 @@ Posteriormente se instalan los paquetes necesarios.
 
 ```bash
 sudo apt update
-sudo apt install qemu-system, libvirt-clients, libvirt-daemon-system, bridge-utils y virt-manager
+sudo apt install qemu-system libvirt-clients libvirt-daemon-system bridge-utils virt-manager
 ```
 
 Para comprobar si la instalación ha generado los grupos kvm y libvirt se consulta el fichero de configuración /etc/group.
