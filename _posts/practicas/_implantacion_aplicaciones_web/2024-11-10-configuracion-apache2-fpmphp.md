@@ -2,7 +2,7 @@
 title:  "Configuración de Apache2 con fpm-php"
 date:   2024-11-10 01:00:00 +0200
 categories: implantacion
-tag: [PHP, Apache2, fpm-php, Implantación de Aplicaciones Web]
+tag: [PHP, Apache2, fpm-php, implantacion, Implantación de Aplicaciones Web]
 excerpt: En este post se documenta el proceso de configuración de un servidor Apache2 para servir aplicaciones web dinámicas escritas en PHP usando el servidor de aplicaciones fpm-php.
 ---
 

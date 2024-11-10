@@ -2,7 +2,7 @@
 title:  "Conceptos de gestión de paquetería en Debian"
 date:   2024-09-30 01:00:00 +0200
 categories: administracion-sistemas
-tag: [sistemas, debian, linux, apt, dpkg, paquetes, comandos, Administración de Sistemas Operativos]
+tag: [sistemas, debian, linux, apt, dpkg, paquetes, comandos, administracion-sistemas, Administración de Sistemas Operativos]
 excerpt: En este post se recoge un breve resumen sobre la información relativa a los gestores de paquetes apt y aptitude incluida en el manual de referencia de Debian
 ---
 

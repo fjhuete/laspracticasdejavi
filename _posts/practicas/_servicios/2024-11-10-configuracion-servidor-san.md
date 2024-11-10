@@ -2,7 +2,7 @@
 title:  "Configuración de un servidor SAN"
 date:   2024-11-10 01:00:00 +0200
 categories: servicios
-tag: [SAN, Almacenamiento, Dispositivos de bloque, iSCSI, tgt, Administración de Sistemas, Servicios de Red e Internet]
+tag: [SAN, Almacenamiento, Dispositivos de bloque, iSCSI, tgt, Administración de Sistemas, servicios, Servicios de Red e Internet]
 excerpt: En este post se muestran, a través de un caso práctico, algunos ejemplos de configuración de un servidor SAN.
 ---
 
@@ -279,18 +279,18 @@ Al iniciar esta herramienta se muestra un mensaje en el que se avisa de que el s
 
 Con esta herramienta se puede establecer una conexión rápida al servidor iscsi con la que se puede detectar un destino e inicar sesión en él indicando el nombre de domino o la dirección IP del servidor.
 
-![](/assets/img/servicios/SAN/p3_c1.png)
+![](/assets/img/servicios/san/p3_c1.png)
 
 Tras detectar los targets creados en el servidor y compartidos con el cliente, estos se muestran en la lista de destinos detectados. Para conectarse al target hay que seleccionarlo y pulsar el botón "conectar".
 
-![](/assets/img/servicios/SAN/p3_c2.png)
+![](/assets/img/servicios/san/p3_c2.png)
 
 Este botón abre una ventana emergente en la que se establece la conexión al servidor SAN. En esta ventana hay que seleccionar las opciones avanzadas y marcar la casilla de autenticación CHAP. Igualmente, es necesario indicar también el nombre de usuario y la contraseña que se han establecido para este target en la configuración del servidor. El cliente iscsi de Windows requiere que estas contraseñas tengan una longitud de, al menos, 12 caracteres.
 
-![](/assets/img/servicios/SAN/p3_c3.png)
+![](/assets/img/servicios/san/p3_c3.png)
 
 Tras establecer la conexión, en la herramienta de administración de discos ya aparecen los dos volúmenes asociados al target compartido por el servidor. Desde esta herramienta se pueden formatear y montar en el cliente Windows.
 
 En este caso se formatean como dos nuevos volúmenes simples identificados por las letras `E:` y `F:`. Tras montarlos y formatearlos ya son accesibles y utilizables desde el cliente y se puede comenzar a almacenar ficheros en ellos.
 
-![](/assets/img/servicios/SAN/p3_c4.png)
+![](/assets/img/servicios/san/p3_c4.png)

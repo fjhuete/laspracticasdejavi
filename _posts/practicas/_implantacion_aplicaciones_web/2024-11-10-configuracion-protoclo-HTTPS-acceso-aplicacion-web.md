@@ -2,7 +2,7 @@
 title:  "Configuración del protocolo HTTPS para el acceso a una aplicación web"
 date:   2024-11-10 01:00:00 +0200
 categories: implantacion
-tag: [HTTPS, Apache2, Let's Encrypt, Certbot, Nginx, servidor web, Implantación de Aplicaciones Web]
+tag: [HTTPS, Apache2, Let's Encrypt, Certbot, Nginx, servidor web, implantacion, Implantación de Aplicaciones Web]
 excerpt: Para usar HTTPS en una aplicación web es necesario configurar el protocolo HTTPS en el servidor web en el que se aloja. En este post se recoge una breve guía con los pasos a seguir.
 ---
 

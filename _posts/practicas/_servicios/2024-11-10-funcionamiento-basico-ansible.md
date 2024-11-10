@@ -2,7 +2,7 @@
 title:  "Funcionamiento básico de ansible"
 date:   2024-11-10 01:00:00 +0200
 categories: servicios
-tag: [Ansible, Dev-Ops, Infraestructura como código, Orquestación, Administración de Sistemas, Servicios de Red e Internet]
+tag: [Ansible, Dev-Ops, Infraestructura como código, Orquestación, Administración de Sistemas, servicios, Servicios de Red e Internet]
 excerpt: Ansible es un software que permite la configuración automatizada de equipos a través de la ejecución de reglas. En esta entrada se recogen algunos elementos fundamentales de esta herramienta.
 ---
 
