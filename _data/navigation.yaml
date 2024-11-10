@@ -5,7 +5,7 @@ main:
     url: /year-archive/
   - title: "Archivo"
     url: /categories/
-  - title: "Presentacion"
+  - title: "Presentación"
     url: /about/
 
 asignaturas:
@@ -19,9 +19,11 @@ asignaturas:
       url: /categories/#fundamentos-hardware
     - title: Bases de datos
       url: /categories/#bases-de-datos
-#  - title: Asignaturas - 2º ASIR
-#    children:
-#    - title: Implantación de Sistemas Operativos
-#      url: /tags/#sistemas
-#    - title: Planificación y Administración de Redes
-#      url: /tags/#redes
+  - title: Asignaturas - 2º ASIR
+    children:
+    - title: Administración de Sistemas Operativos
+      url: /tags/#administracion-sistemas
+    - title: Servicios de Red e Internet
+      url: /tags/#servicios
+    - title: Implantación de Aplicaciones Web
+      url: /tags/#implantacion
