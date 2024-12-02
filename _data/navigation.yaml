@@ -22,8 +22,10 @@ asignaturas:
   - title: Asignaturas - 2º ASIR
     children:
     - title: Administración de Sistemas Operativos
-      url: /tags/#administracion-sistemas
+      url: /tags/#administración-de-sistemas-operativos
     - title: Servicios de Red e Internet
-      url: /tags/#servicios
+      url: /tags/#servicios-de-red-e-internet
+    - title: Administración de Sistemas Gestores de Bases de Datos
+      url: /tags/#administración-de-sistemas-gestores-de-bases-de-datos
     - title: Implantación de Aplicaciones Web
-      url: /tags/#implantacion
+      url: /tags/#implantación-de-aplicaciones-web
