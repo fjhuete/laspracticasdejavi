@@ -148,5 +148,5 @@ ip firewall nat add chain=dstnat action=dst-nat dst-address=100.20.0.39 dst-port
 
 Esta configuración permite a los ordenadores PC1 y PC2 acceder, desde su red local, a los servidores en las empresas.
 
-><i class="fas fa-info-circle" aria-hidden="true"></i> En este blog también puedes encontrar este mismo caso práactico resuelto usando [routers Cisco en GNS3](/redes/nat-router-cisco-gns3) y usando [routers Linux en Openstack](/redes/nat-router-linux-openstack).
+><i class="fas fa-quote-right" aria-hidden="true"></i> En este blog también puedes encontrar este mismo caso práactico resuelto usando [routers Cisco en GNS3](/redes/nat-router-cisco-gns3) y usando [routers Linux en Openstack](/redes/nat-router-linux-openstack).
 {: .notice--primary}

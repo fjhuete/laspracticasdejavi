@@ -93,7 +93,7 @@ SQL>
 
 ## Configuración del segundo servidor
 
-Ahora que el primer servidor es accesible desde otro cliente de la red local, es momento de configurar el segundo servidor. Para facilitar el proceso de configuración previa a la instalación del servidor, se puede usar un [script de configuración](https://github.com/fjhuete/instalacion_oracle) y posteriormente se puede instalar un paquete .deb convertido usando la herramienta alien a partir del paquete .rpm que distribuye Oracle.
+Ahora que el primer servidor es accesible desde otro cliente de la red local, es momento de configurar el segundo servidor. Para facilitar el proceso de configuración previa a la instalación del servidor, se puede usar un [script de configuración](https://github.com/fjhuete/instalacion_oracle) y posteriormente se puede instalar un paquete .deb convertido usando la herramienta `alien` a partir del paquete .rpm que distribuye Oracle.
 
 ```
 debian@oracle2:~$ sudo dpkg -i oracle-database-ee-21c_1.0-2_amd64.deb 

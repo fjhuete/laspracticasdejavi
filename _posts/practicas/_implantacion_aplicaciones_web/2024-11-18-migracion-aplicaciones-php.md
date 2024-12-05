@@ -89,7 +89,7 @@ server {
 }
 ```
 
-En nginx no existe un comando que ponga los virtual host en producción como el comando @a2ensite@ de apache. Para hacerlo, en este caso hay que crear un enlace simbólico al fichero de configuración en el directorio /etc/nginx/sites-enabled de forma manual.
+En nginx no existe un comando que ponga los virtual host en producción como el comando `a2ensite` de apache. Para hacerlo, en este caso hay que crear un enlace simbólico al fichero de configuración en el directorio /etc/nginx/sites-enabled de forma manual.
 
 ```
 debian@pignite:/etc/nginx/sites-enabled$ sudo ln ../sites-available/moodle 
